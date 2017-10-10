@@ -1,0 +1,29 @@
+h2{
+color:blue;
+font-variant:small caps;
+}
+h1{
+color:red;
+font-style:italic;
+}
+h3{
+color:blue;
+font-weight:lighter;
+}
+.sri p{
+line-height: 10%;
+}
+h5{
+color:blue;
+font-family:reguler;
+text-decoration:line-through;
+}
+h6{
+color:blue;
+line-height:40px;
+
+
+}
+p{
+	color:red;
+}
